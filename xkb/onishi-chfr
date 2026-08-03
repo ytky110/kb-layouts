@@ -17,7 +17,7 @@ xkb_symbols "basic" {
     key <AD09> { [ y, Y ] };
     key <AD10> { [ p, P ] };
     key <AD11> { [ asciitilde,  braceright, bracketleft ] };
-    key <AD12> { [ exclam, question, bracketright ] };
+    key <AD12> { [ question, exclam, bracketright ] };
 
     key <AC01> { [ e, E, EuroSign ] };
     key <AC02> { [ i, I ] };
