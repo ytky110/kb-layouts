@@ -4,4 +4,5 @@ xkb_symbols "basic" {
     include "ch(fr_nodeadkeys)"
 
     key <AD12> {[ exclam, diaeresis, bracketright, macron ]};
+    key <AE12>	{[ asciicircum,    grave,   asciitilde, dead_circumflex ]};
 };
