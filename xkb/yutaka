@@ -5,4 +5,5 @@ xkb_symbols "basic" {
 
     key <AD12> {[ exclam, diaeresis, bracketright, macron ]};
     key <AE12>	{[ asciicircum,    grave,   asciitilde, dead_circumflex ]};
+    key <AE09>	{[ 9, parenright, dead_grave, plusminus ]};
 };
