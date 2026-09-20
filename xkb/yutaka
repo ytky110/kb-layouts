@@ -3,7 +3,8 @@ xkb_symbols "basic" {
 
     include "ch(fr_nodeadkeys)"
 
-    key <AD12> {[ exclam, diaeresis, bracketright, macron ]};
+    key <AD12>	{[ exclam, diaeresis, bracketright, macron ]};
     key <AE12>	{[ asciicircum,    grave,   asciitilde, dead_circumflex ]};
     key <AE09>	{[ 9, parenright, dead_grave, plusminus ]};
+    key <AE10>	{[ 0, equal, dead_grave ]};
 };
