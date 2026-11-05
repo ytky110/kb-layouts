@@ -1,7 +1,8 @@
 partial alphanumeric_keys
 xkb_symbols "basic" {
-
     include "ch(fr_nodeadkeys)"
+
+    name[Group1] = "Yutaka (Japanese)";
 
     // D <-> E
     key <AD03> { [ d, D ] };
