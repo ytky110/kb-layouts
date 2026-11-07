@@ -16,7 +16,7 @@ xkb_symbols "basic" {
     key <AD09>	{[    Cyrillic_shcha,    Cyrillic_SHCHA  ]};
     key <AD10>	{[       Cyrillic_ze,       Cyrillic_ZE  ]};
     key <AD11>	{[       Cyrillic_ha,       Cyrillic_HA  ]};
-    key <AD12>	{[ Cyrillic_hardsign, Cyrillic_HARDSIGN  ]};
+    key <AD12>	{[ Cyrillic_hardsign, Cyrillic_HARDSIGN, bracketright, exclam ]};
 
     key <AC01>	{[       Cyrillic_ef,       Cyrillic_EF  ]};
     key <AC02>	{[     Cyrillic_yeru,     Cyrillic_YERU  ]};
